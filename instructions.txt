@@ -1,0 +1,10 @@
+Bienvenidos al Challange realizado por mi: Israel Julian Medina
+
+El mismo utliza la API "randomeuser.me" https://randomuser.me/documentation
+/*dejo link de la API*/
+
+Al iniciar la APP/WEB se encontraran un hero con un titulo y texto de bienvenida.
+Para dar curso a la app se debera hacer click en el boton "START".
+Luego de una mini animacion se presentaran los 50 usuarios aleatorios, para conocer mas datos se debera hacer click en una imagen.
+Esto llevara a otra pagina donde se presentaran mas datos de ese usuario seleccionado.
+En la misma pagina se encuentra un boton con el cual podes volver al inicio de la APP y volver a pedir otros 50 usuarios aleatorios.
